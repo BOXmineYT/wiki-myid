@@ -17,4 +17,4 @@ PhpMyAdmin: https://phpmyadmin.box-hosting.ru
 
 Реестр нарушений: https://reestr.myid.su
 
-Страница поплнения: https://pay.myid.su
+Страница пополнения: https://pay.myid.su
